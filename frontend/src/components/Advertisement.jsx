@@ -1,6 +1,7 @@
 import React from 'react'
 import Card from './Card'
 
+
 const Advertisement = () => {
   return (
     <div className='sticky-top-18'>
